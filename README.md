@@ -1,24 +1,3 @@
-# README
+# ARHome
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Let your neighbors learn more about you, your garden, or anything else, and leave comments or interact with the first virtual presence for your home.
